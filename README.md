@@ -30,6 +30,12 @@ CHROME_DRIVER = r"C:\chromeDriver\chromedriver.exe"
 STEP3
 vicode or whatever runing the scripts
 
+Result：
+![image](https://github.com/user-attachments/assets/c50aac5b-d8d6-4f8d-90ef-832f6b602d20)
 
+![image](https://github.com/user-attachments/assets/bf48661a-e101-45b6-8514-e21c0755f02a)
 
+![image](https://github.com/user-attachments/assets/4a2f29ac-7235-4e48-baf7-1d69786f446c)
+
+![image](https://github.com/user-attachments/assets/ea071078-18eb-440d-92a8-c3579737b48f)
 
